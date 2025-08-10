@@ -1,8 +1,7 @@
-# longread-1-module1-html-basics-practice-1
+# longread-1-module1-html-basics-practice-2
 
-Recipe Contribution!
+Page of the gym network!
 
-Recipe where there is a dish name and two equivalent sections: ingredients and
-instruction
+You need to follow the Page Page of the gyms.
 
-![Опис зображення](./asset/recept.png)
+![Опис зображення](./asset/planet-fatness.png)
