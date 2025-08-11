@@ -5,3 +5,4 @@ Page of the gym network!
 You need to follow the Page Page of the gyms.
 
 ![Опис зображення](./asset/planet-fatness.png)
+
